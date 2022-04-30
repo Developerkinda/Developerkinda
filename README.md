@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Developerkinda
-- 👀 I’m interested in .AI..
-- 🌱 I’m currently learning ..C,C++,C#,Java.
-- 💞️ I’m looking to collaborate on ..Gamedevelopment,appdevelopment.
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning C,C++,C#,Java
+- 💞️ I’m looking to collaborate on ..Gamedevelopment,appdevelopment
 - 📫 How to reach me mail,discord etc....
 
 <!---
